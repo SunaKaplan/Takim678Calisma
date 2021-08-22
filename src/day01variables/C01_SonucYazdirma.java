@@ -7,6 +7,8 @@ public class C01_SonucYazdirma {
 System.out.println("Hello world ");
 
 System.out.println("Hello world ");		
+System.out.println("Lokalden merhabalar");	
+	
 	}
 
 }
